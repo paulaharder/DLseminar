@@ -43,7 +43,7 @@ Note that the talks of our employees of the division are marked with (_Fraunhofe
 | 15/12/2022 | t.b.a. | | | | | |
 | 22/12/2022 | t.b.a. | | | | | |
 | **CHRISTMAS BREAK** | | | | | | |
-| 12/01/2023 | t.b.a. | | | | | |
+| 12/01/2023 | Paula Harder| (_Fraunhofer ITWM_)| paula.harder@itwm.fraunhofer.de| Physics-Constrained Climate Super-Resolution| | |
 | 19/01/2023 | t.b.a. | | | | | |
 | 26/01/2023 | t.b.a. | | | | | |
 | 02/02/2023 | t.b.a. | | | | | |
